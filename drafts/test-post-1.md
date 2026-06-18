@@ -12,9 +12,9 @@ It's great to write test post.
    1. This is great.
 3. Here goes next:
 
-## This is the second item.
-- Wow we got this! This is the second item.
-- I am testing out bullet points here.
+## This is the second item, but I decided to revise it.
+- And I'm testing out another version of bullet points. Wait, how about inserting an empty bullet?
+- 
 
 ## I should also test the image function, so...
 ![alternative text](/assets/images/test-post-1/image01.png)
