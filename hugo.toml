@@ -1,0 +1,8 @@
+baseURL = "https://jiwonahn01.github.io/"
+locale = "en-us"
+title = "The Mechanist Blog"
+theme = "PaperMod"
+
+[caches]
+    [caches.images]
+      dir = ':cacheDir/images'
