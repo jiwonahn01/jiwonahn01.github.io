@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on The Mechanist Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The Mechanist Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2026 01:21:01 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post 01</title>
+      <link>http://localhost:1313/posts/test-post-01/</link>
+      <pubDate>Sat, 20 Jun 2026 01:21:01 +0900</pubDate>
+      <guid>http://localhost:1313/posts/test-post-01/</guid>
+      <description>&lt;h1 id=&#34;bruh&#34;&gt;Bruh&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;let me see whether md works rn&lt;/li&gt;
+&lt;li&gt;hope it works&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;first-subtitle&#34;&gt;First subtitle&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;let me test the number list&lt;/li&gt;
+&lt;li&gt;also hope it works. Lol lol lol&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;second-subtitle&#34;&gt;Second subtitle&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;let me see whether blank bullets work?&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;end-of-article&#34;&gt;End of article&lt;/h2&gt;
+&lt;p&gt;제목이 곧 내용.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
